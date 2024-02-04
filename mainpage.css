@@ -1,0 +1,92 @@
+
+html.body {
+    background-color: lightslategrey;
+}
+
+.list-group {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#wallname {
+    text-align: center;
+}
+
+#logout {
+    margin-left: 95%;
+}
+
+#delete {
+    margin-left: 90%;
+}
+
+#post_input {
+    height: 15%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10%;
+    background-color: #f8f8f8;
+}
+
+.form-floating {
+    height: 15%;
+    margin-top: -10%;
+}
+
+.form-floating_text {
+
+    height: 15%;
+}
+
+.form-control {
+    height: 25%;
+}
+
+#send_button {
+    margin-top: 5px;
+}
+
+#benutzer_search {
+    margin-left: 83%;
+    width: 10%;
+}
+
+#return {
+    height: 15%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+}
+
+.list-group-item {
+    margin-top: 5px;
+}
+
+.form-floating_return {
+    margin-top: -13%;
+}
+
+.form-floating_seach {
+    margin-top: -13%;
+}
+
+#benutzer_search_other {
+    margin-top: -13%;
+    margin-left: 83%;
+    width: 10%;
+}
+
+.list-group-other {
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+#online_status {
+    margin-left: 7%;
+    width: 8%;
+}
+
+#online_status_button_other {
+    pointer-events: none;
+}
